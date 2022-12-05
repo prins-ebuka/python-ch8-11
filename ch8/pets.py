@@ -10,6 +10,7 @@ describe_pet('dog', 'willie')
 
 describe_pet(animal_type='hamster', pet_name='harry')
 describe_pet(pet_name='harry', animal_type='hamster')
+
 #when using keyword arguments, be sure to use the exact names of the parameter.
 
 #Default values

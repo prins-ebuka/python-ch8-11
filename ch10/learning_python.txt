@@ -1,0 +1,3 @@
+In Python you can create Functions
+In Python you can create an infinite loop
+In Python you can create Classes
